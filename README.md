@@ -34,7 +34,7 @@
       </td>
       <td align="center" style="background: #0F172A; border-radius: 16px; padding: 16px; border: 1px solid #1E293B;">
         📫 <strong style="color:#3B82F6;">Email</strong><br />
-        <a href="mailto:irfan566274@gmail.com" style="color:#60A5FA;">irfan566274@gmail.com</a>
+        <a href="mailto:nawazishkanday@gmail.com" style="color:#60A5FA;">nawazishkanday@gmail.com</a>
       </td>
     </tr>
   </table>
@@ -95,20 +95,20 @@
 <h2 align="center" style="color: #E2E8F0;">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nawazishkandaydev&show_icons=true&theme=radical&hide_border=true&bg_color=0F172A&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawazishkandaydev&layout=compact&theme=radical&hide_border=true&bg_color=0F172A&title_color=60A5FA&text_color=CBD5E1" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nawazishkanday-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0F172A&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawazishkanday-dev&layout=compact&theme=radical&hide_border=true&bg_color=0F172A&title_color=60A5FA&text_color=CBD5E1" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nawazishkandaydev&theme=radical&hide_border=true&background=0F172A&stroke=3B82F6&ring=60A5FA&fire=3B82F6&currStreakNum=CBD5E1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nawazishkanday-dev&theme=radical&hide_border=true&background=0F172A&stroke=3B82F6&ring=60A5FA&fire=3B82F6&currStreakNum=CBD5E1" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nawazishkandaydev&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nawazishkanday-dev&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nawazishkandaydev&theme=react-dark&bg_color=0F172A&color=60A5FA&line=3B82F6&point=93C5FD&area=true&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nawazishkanday-dev&theme=react-dark&bg_color=0F172A&color=60A5FA&line=3B82F6&point=93C5FD&area=true&hide_border=true" width="95%" />
 </div>
 
 <br />
@@ -117,8 +117,8 @@
 <h2 align="center" style="color: #E2E8F0;">🌐 Connect with Me</h2>
 
 <p align="center">
-  <a href="mailto:irfan566274@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/nawazishkandaydev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:nawazishkanday@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/nawazishkanday-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </p>
 
@@ -128,6 +128,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
   <br />
-  <img src="https://komarev.com/ghpvc/?username=nawazishkandaydev&label=Profile%20Views&color=3B82F6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nawazishkanday-dev&label=Profile%20Views&color=3B82F6&style=flat-square" alt="Profile Views" />
   <p style="color: #94A3B8;">⚡ Always building, always learning — open to collaborations full‑stack projects.</p>
-</div># https-github.com-nawazishkanday
+</div>
